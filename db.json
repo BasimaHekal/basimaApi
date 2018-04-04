@@ -1,17 +1,20 @@
 {
   "posts": [
-    { "title": "Dawn of the Planet of the Apes",
+    { "id": 1,
+      "title": "Dawn of the Planet of the Apes",
         "image": "https://api.androidhive.info/json/movies/1.jpg",
         "rating": 8.3,
         "releaseYear": 2014,
         "genre": ["Action", "Drama", "Sci-Fi"]
  },
-    { "title": "Dawn of the Planet of the Apes",
+    { "id": 2,
+      "title": "Dawn of the Planet of the Apes",
         "image": "https://api.androidhive.info/json/movies/1.jpg",
         "rating": 8.3,
         "releaseYear": 2014,
         "genre": ["Action", "Drama", "Sci-Fi"] },
-    { "title": "Dawn of the Planet of the Apes",
+    { "id": 3,
+      "title": "Dawn of the Planet of the Apes",
         "image": "https://api.androidhive.info/json/movies/1.jpg",
         "rating": 8.3,
         "releaseYear": 2014,
