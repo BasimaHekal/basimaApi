@@ -4,7 +4,7 @@
         "image": "https://api.androidhive.info/json/movies/1.jpg",
         "rating": 8.3,
         "releaseYear": 2014,
-        "genre": ["Action", "Drama", "Sci-Fi" }]
+        "genre": ["Action", "Drama", "Sci-Fi" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
