@@ -1,7 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Sensors": [
+    { "id": 1, "name": "Sensor 1","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n" },
+    { "id": 2, "name": "Sensor 1","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n" },
+    { "id": 3, "name": "Sensor 1","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n" }
   ]
 }
