@@ -8,6 +8,6 @@
     { "id": 7, "name": "MQ2","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image_name": "mq2" },
     { "id": 8, "name": "PIR","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image_name": "pir" },
     { "id": 9, "name": "ESP8266","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image_name": "esp8266" },
-    { "id": 10, "name": "Keypad","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image_name": "keypad" },
+    { "id": 10, "name": "Keypad","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image_name": "keypad" }
   ]
 }
