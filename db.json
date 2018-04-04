@@ -19,12 +19,5 @@
         "rating": 8.3,
         "releaseYear": 2014,
         "genre": ["Action", "Drama", "Sci-Fi"] }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
