@@ -3,11 +3,11 @@
     { "id": 1, "name": "Ultrsonic","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "ultrasonic" },
     { "id": 2, "name": "Servo Motor","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "servo" },
     { "id": 3, "name": "Gyroscope","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "groscope" },
-    { "id": 5, "name": "DHT11","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "dht11" },
-    { "id": 6, "name": "LDR","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "ldr" },
-    { "id": 7, "name": "MQ2","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "mq2" },
-    { "id": 8, "name": "PIR","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "pir" },
-    { "id": 9, "name": "ESP8266","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "esp8266" },
-    { "id": 10, "name": "Keypad","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "keypad" }
+    { "id": 4, "name": "DHT11","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "dht11" },
+    { "id": 5, "name": "LDR","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "ldr" },
+    { "id": 6, "name": "MQ2","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "mq2" },
+    { "id": 7, "name": "PIR","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "pir" },
+    { "id": 8, "name": "ESP8266","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "esp8266" },
+    { "id": 9, "name": "Keypad","cost": "550","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "keypad" }
   ]
 }
