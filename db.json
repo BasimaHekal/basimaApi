@@ -1,13 +1,13 @@
 {
   "Sensors": [
-    { "id": 1, "name": "Ultrsonic","cost": "550","State": "on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/ultrasonic.png" },
-    { "id": 2, "name": "Servo Motor","cost": "550","State": "off","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/servo.png" },
-    { "id": 3, "name": "Gyroscope","cost": "550","State": "on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/groscope.png" },
-    { "id": 4, "name": "DHT11","cost": "550","State": "on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/dht11.png" },
-    { "id": 5, "name": "LDR","cost": "550","State": "on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/ldr.png" },
-    { "id": 6, "name": "MQ2","cost": "550","State": "off","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/mq2.png" },
-    { "id": 7, "name": "PIR","cost": "550","State": "on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/pir.png" },
-    { "id": 8, "name": "ESP8266","cost": "550","State": "off","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/esp8266.png" },
-    { "id": 9, "name": "Keypad","cost": "550","State": "off","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/keypad.png" }
+    { "id": 1, "name": "Ultrsonic","cost": "550","State":"on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/ultrasonic.png" },
+    { "id": 2, "name": "Servo Motor","cost": "550","State":"off","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/servo.png" },
+    { "id": 3, "name": "Gyroscope","cost": "550","State":"on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/groscope.png" },
+    { "id": 4, "name": "DHT11","cost": "550","State":"on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/dht11.png" },
+    { "id": 5, "name": "LDR","cost": "550","State":"on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/ldr.png" },
+    { "id": 6, "name": "MQ2","cost": "550","State":"off","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/mq2.png" },
+    { "id": 7, "name": "PIR","cost": "550","State":"on","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/pir.png" },
+    { "id": 8, "name": "ESP8266","cost": "550","State":"off","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/esp8266.png" },
+    { "id": 9, "name": "Keypad","cost": "550","State":"off","barcode": "95215335","description": "mxncjxn nxjcxj n","image": "http://192.168.1.3/photos/keypad.png" }
   ]
 }
